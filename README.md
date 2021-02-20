@@ -10,4 +10,6 @@ JavaScript-Algorithms
 
 -> Finding maximum consecutive 1's in a array
 
--> Finding maximum repeated character in a atring
+-> Finding maximum repeated character in string
+
+-> FizzBuzz
