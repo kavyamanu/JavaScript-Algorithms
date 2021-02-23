@@ -13,3 +13,5 @@ JavaScript-Algorithms
 -> Finding maximum repeated character in string
 
 -> FizzBuzz
+
+-> Divide an array into chunks of given length
