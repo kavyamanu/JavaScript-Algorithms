@@ -15,3 +15,5 @@ JavaScript-Algorithms
 -> FizzBuzz
 
 -> Divide an array into chunks of given length
+
+-> Anagrams
