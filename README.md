@@ -19,3 +19,5 @@ JavaScript-Algorithms
 -> Anagrams
 
 -> Sentence Capitalization
+
+-> Printing Steps
