@@ -21,3 +21,5 @@ JavaScript-Algorithms
 -> Sentence Capitalization
 
 -> Printing Steps
+
+-> Printing pyramids
