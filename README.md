@@ -23,3 +23,5 @@ JavaScript-Algorithms
 -> Printing Steps
 
 -> Printing pyramids
+
+-> Find The Vowels
