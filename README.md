@@ -25,3 +25,5 @@ JavaScript-Algorithms
 -> Printing pyramids
 
 -> Find The Vowels
+
+-> Enter the Matrix Spiral
