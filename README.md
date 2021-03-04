@@ -32,4 +32,6 @@ JavaScript-Algorithms
 
 -> Memoization
 
--> Queue
+-> Queue and weave
+
+-> Queue with stacks
