@@ -31,3 +31,5 @@ JavaScript-Algorithms
 -> Fibonacci
 
 -> Memoization
+
+-> Queue
